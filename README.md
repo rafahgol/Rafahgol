@@ -2,7 +2,7 @@
 
 - 🤔 Hi! My name is Rafael Lima dos Santos, i'm brazilian and 23 years world. I love video games and love making them too.
 - 🎓 Studying Computer Science in UFRJ
-- 🌱 Back-end and Game Developer. Currently learning CCS, HTML5 and MySQL
+- 🌱 Back-end and Game Developer. Currently learning CCS3, HTML5 and MySQL
 
 ## My Skills
 
