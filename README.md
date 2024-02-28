@@ -25,5 +25,5 @@
 
 ## Onde me encontrar
 [![Itch.IO](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rafahgol.itch.io)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafalima@ufrj.br)](mailto:rafalima@ufrj.br )
+[![Gmail Badge](https://img.shields.io/badge/-rafalima@ufrj.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafalima@ufrj.br)](mailto:rafalima@ufrj.br )
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Rafahgol)
