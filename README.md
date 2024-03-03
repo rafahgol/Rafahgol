@@ -17,13 +17,13 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-**Ferramentas de desenvolvimento**
+**Developer tools:**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 
-## Onde me encontrar
+## Where you can find me:**
 [![Itch.IO](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rafahgol.itch.io)
 [![Gmail Badge](https://img.shields.io/badge/-rafalima@ufrj.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafalima@ufrj.br)](mailto:rafalima@ufrj.br )
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Rafahgol)
