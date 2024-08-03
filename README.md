@@ -1,6 +1,6 @@
 ## About me
 
-- :grinning:	 Hi! My name is Rafael Lima dos Santos, i'm brazilian and 23 years old. I'm a dev and game dev!
+- :grinning:	 Hi! My name is Rafael Lima dos Santos, i'm brazilian and 23 years old. I'm a game dev who is trying to learn back and front too!
 - 🎓 Studying Computer Science in UFRJ
 - 🌱 Currently learning CCS3, HTML5 and JavaScript.
 - :smile:	My games are on my itch.io page down below.
